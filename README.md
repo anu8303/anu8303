@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anu8303
+- 👋 Hi, I’m ANUSHKA JAIN
 - 👀 I’m interested in Coding and Development
 - 🌱 I’m currently learning more about Computer Science stream and It industry
 - 💞️ I’m looking to collaborate on multiple projects
