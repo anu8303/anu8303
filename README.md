@@ -12,3 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+## Let's Connect! :mailbox:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/anushka-jain-b995a6208/)
