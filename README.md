@@ -1,4 +1,8 @@
-- 👋 Hi, I’m ANUSHKA JAIN
+## Hi, I’m ANUSHKA JAIN
+<div align="center">
+  <img src="https://raw.githubusercontent.com/anu8303/anu8303/main/assets/banner.gif" width="600px">
+</div>
+
 - 🚀 Software Developer | AI Enthusiast | Full-Stack Developer
 - 👀 I’m interested in Coding and Development
 - 🔍 Passionate about building scalable AI-powered applications and optimizing backend services.
