@@ -1,7 +1,9 @@
 - 👋 Hi, I’m ANUSHKA JAIN
+- 🚀 Software Developer | AI Enthusiast | Full-Stack Developer
 - 👀 I’m interested in Coding and Development
-- 🌱 I’m currently learning more about Computer Science stream and It industry
-- 💞️ I’m looking to collaborate on multiple projects
+- 🔍 Passionate about building scalable AI-powered applications and optimizing backend services.
+- 🌱 Experienced in Python, Django, LangChain, NLP (GPT, BERT), React.js, AWS, and PostgreSQL.
+- 💞️ Open to collaborations on AI, NLP, and full-stack projects!
 - 📫 How to reach me anu8303jain@gmail.com
 
 <!---
