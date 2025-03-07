@@ -1,6 +1,8 @@
-## Hi, I’m ANUSHKA JAIN :wave:
+<div align="center">
+  <h2>🚀 Hi, I'm ANUSHKA JAIN 🌟</h2>
+</div>
 
-  <div align="center">
+ <div align="center">
   <img src="https://github.com/anu8303/anu8303/blob/main/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3034322f3633312f3238362f6f726967696e616c2f627279616e2d726f6472696775657a2d62656c6368696269612d312d72696768747370.gif" width="300px">
 </div>
 
