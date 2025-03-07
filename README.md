@@ -31,3 +31,4 @@ You can click the Preview link to take a look at your changes.
 ## Let's Connect! :mailbox:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/anushka-jain-b995a6208/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/@a_focile_girl)
