@@ -2,7 +2,7 @@
   <h2> Hi, I'm ANUSHKA JAIN 👋</h2>
 </div>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=800080&width=650&lines=AI+isn't+taking+over%3B+I'm+just+making+it+smarter.+%F0%9F%A4%96)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=800080&width=900&lines=AI+isn't+taking+over%3B+I'm+just+making+it+smarter.+%F0%9F%A4%96)
 
 
  <div align="center">
