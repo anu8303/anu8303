@@ -2,6 +2,8 @@
   <h2> Hi, I'm ANUSHKA JAIN 👋</h2>
 </div>
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&width=435&lines=I+love+Code+with+Coffee+%E2%98%95)
+
  <div align="center">
   <img src="https://github.com/anu8303/anu8303/blob/main/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3034322f3633312f3238362f6f726967696e616c2f627279616e2d726f6472696775657a2d62656c6368696269612d312d72696768747370.gif" width="300px">
 </div>
