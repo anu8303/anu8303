@@ -1,6 +1,7 @@
-## Hi, I’m ANUSHKA JAIN
+## Hi, I’m ANUSHKA JAIN :wave:
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/anu8303/anu8303/main/assets/banner.gif" width="600px">
+  <img src="https://raw.githubusercontent.com/C:\Users\anu83\Downloads\pic github" width="600px">
 </div>
 
 - 🚀 Software Developer | AI Enthusiast | Full-Stack Developer
