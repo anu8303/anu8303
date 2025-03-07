@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>🚀 Hi, I'm ANUSHKA JAIN 🌟</h2>
+  <h2> Hi, I'm ANUSHKA JAIN 👋</h2>
 </div>
 
  <div align="center">
